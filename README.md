@@ -18,6 +18,6 @@ Middel to connect Magento 2 & Netsutie. APi intergration will be provide in betw
 
 
 
-## [etsuite](./doc/netsuite)
+## [Netsuite](./doc/netsuite)
 ERP for hsjayes, major database was store here.
    
