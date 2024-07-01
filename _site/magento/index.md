@@ -1,6 +1,6 @@
 ---
 layout: magento
-title: Home
+title: Magento 2
 ---
 # magento 2
 ## API
