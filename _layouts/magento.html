@@ -17,13 +17,14 @@
     <div class="wrapper">
       <header>
         <h1 class="header">{{ page.title | default: site.github.project_title }}</h1>
-        <p class="header">{{ site.description | default: site.github.project_tagline }}</p>
+        <p class="header">{{ page.description | default: site.github.project_tagline }}</p>
 
 
         {% if site.github.is_project_page %}
           
         {% endif %}
         <ul>
+            <li><a class="" href="https://ytyeoh.github.io/docs-jshayes">Home</a></li>
             <li><a class="" href="#getting_started">Getting Started</a></li>
             <li><a class="" href="#api">API</a></li>
           </ul>
