@@ -20,4 +20,8 @@ Middel to connect Magento 2 & Netsutie. APi intergration will be provide in betw
 
 ## [Netsuite](./doc/netsuite)
 ERP for hsjayes, major database was store here.
+
+
+## [Detrack](./doc/detrack)
+Handle shipping status with live track location and generate IFXXXXX Item Fufillment id for tracking purpose.
    
