@@ -38,7 +38,8 @@ jobs:
           destination: ./_site
       - name: Upload artifact
         with:
-          path: '.'
+          name: 1gb-v4
+          path: 1gb-v4
         uses: actions/upload-artifact@v4
         # actions/upload-pages-artifact@v2
 
