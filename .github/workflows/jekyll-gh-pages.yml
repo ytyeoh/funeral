@@ -37,11 +37,7 @@ jobs:
           source: ./
           destination: ./_site
       - name: Upload artifact
-        with:
-          name: 1gb-v4
-          path: 1gb-v4
         uses: actions/upload-pages-artifact@v2
-        # actions/upload-pages-artifact@v2
 
   # Deployment job
   deploy:
