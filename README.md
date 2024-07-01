@@ -13,7 +13,7 @@ Currently as i know only need is REST API.
 
 
 
-### [Magento 2](/magento)
+### [Magento 2](./magento)
 currently is on api, front end. language will be PHP, JavaScript, HTML, CSS, and MySQL.
 
 this image show how magento 2 big picture on handle event and webhook for making feeature.
