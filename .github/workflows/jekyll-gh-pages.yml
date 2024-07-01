@@ -37,7 +37,8 @@ jobs:
           source: ./
           destination: ./_site
       - name: Upload artifact
-        path: '.'
+        with:
+          path: '.'
         uses: actions/upload-artifact@v4
         # actions/upload-pages-artifact@v2
 
