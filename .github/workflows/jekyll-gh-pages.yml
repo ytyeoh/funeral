@@ -40,7 +40,7 @@ jobs:
         with:
           name: 1gb-v4
           path: 1gb-v4
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-pages-artifact@v2
         # actions/upload-pages-artifact@v2
 
   # Deployment job
