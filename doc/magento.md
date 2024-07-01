@@ -3,4 +3,5 @@ layout: magento
 title: Home
 ---
 # magento 2
-create adccount for magento 2
+## API
+For intergrate with other system, example celigo & netsuite. Celigo will be use as middleware to connnect between magento 2 and Netsuite.
