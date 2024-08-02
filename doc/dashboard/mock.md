@@ -1,7 +1,7 @@
-<img width="485" alt="image" src="https://github.com/user-attachments/assets/3d235f89-a266-4ee7-9756-204c5852e843"># Version 1.0.0 2/8/2024
+# Version 1.0.0 2/8/2024
 
 ## Dashbaord
-https://xd.adobe.com/view/25e79356-f9a3-45d3-81b7-155829757ccf-70b4/
+[xd lik](https://xd.adobe.com/view/25e79356-f9a3-45d3-81b7-155829757ccf-70b4/)
 
 ### 1. Dashboard
 
@@ -43,7 +43,8 @@ Disaply top 3 categories with value exmaple $120,000, can click on caterogy go t
 
 ### 3. Delivery Performance(DIFOT)
 Have a bprderless tabel to display MTD & YTD value in %. Exaple table as below. Put figure 100% as a button can click then go to My Report PAGES
-| | MTD      | YTD |
+
+|  | MTD      | YTD |
 |-----------| ----------- | ----------- |
 |Delivery Performance(DIFOT)| 100%     | 100%      |
 
@@ -87,6 +88,7 @@ Remove all existing contents and follow below describtio to make it.
 | Branch D | $1,000,471   | $50,471    | $1,000,000   | $5,000     |
 
 ---
+
 ## Request For Quote
 https://xd.adobe.com/view/25e79356-f9a3-45d3-81b7-155829757ccf-70b4/screen/9cb648fb-429a-4f8c-bd84-169bfc30a579
 
