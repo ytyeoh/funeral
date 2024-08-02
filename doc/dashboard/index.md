@@ -1,2 +1,2 @@
-1. [Dashboard - Group(Total purchase MTD YTD) PAGES](Dashboard - Group-Total purchase MTD YTD PAGES)
+1. [Dashboard - Group(Total purchase MTD YTD) PAGES](Group-Total purchase MTD YTD)
 2. [Dashboard - Group(Total purchase MTD YTD) PAGES](mock)
