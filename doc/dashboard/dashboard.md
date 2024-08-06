@@ -26,9 +26,9 @@ Once click go to [Dashboard - Group(Total purchase MTD YTD) PAGES](Group-Total%2
 Budget Year To Date data for all products example: $30,000
 Once click go to [Dashboard - Group(Total purchase MTD YTD) PAGES](Group-Total%20purchase%20MTD%20YTD)
 
-{:.red_title}
+{:.red-title}
 ## Suggestion
-{:.red_text}
+{:.red-text}
 In dashabord remove 4 button form eacth column, then make only single button at bottom  to click will go to [Dashboard - Group(Total purchase MTD YTD) PAGES](Group-Total%20purchase%20MTD%20YTD)
 
 
