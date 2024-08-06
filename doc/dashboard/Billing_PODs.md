@@ -18,5 +18,10 @@ Customer can view outstanding invoice in index page format via table design. Out
 | 2-9-2024     | JHS9001        | $ 1,000      | 2-10-2024 | Image from Detrack |
 | 2-9-2024     | JHS9002        | $ 2,000      | 2-10-2024 | Image from Detrack |
 
-[^1] Print Statment
+
+{:.red-title}
+## Print Statment
+
+{:.red-text}
+
 Will be confirm with Kush or Waqas on how statment will be show.(SOA or Sales Statment)
