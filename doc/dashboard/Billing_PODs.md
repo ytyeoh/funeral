@@ -6,6 +6,7 @@ title: Billing & PODs
 [xd link](https://xd.adobe.com/view/25e79356-f9a3-45d3-81b7-155829757ccf-70b4/screen/56cd36a6-9db0-4be6-94a3-0e15f5140b8f){:target="_blank"}
 
 Customer can view outstanding invoice in index page format via table design. Outstanding invoice  only show in condition after a date from due date.
+
 ## Details 
 1. Once click on invoice number will route to Invoice Details PAGES.
 2. Add print button allow on top of table to print statment.
