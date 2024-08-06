@@ -13,9 +13,9 @@ Backend work same with enquiry form, relaetd will receive this notification.
 
 
 Form Input element as below:-
-1. Product Code text input
-2. Product specification text input
-3. Estimate Quantity Per Month text input
-4. Upload Document (Prevvious Purchase Order/Invoice) File Uplaod
-5. Remark Textarea input
+1. Product Code **text input**
+2. Product specification **text input**
+3. Estimate Quantity Per Month **text input**
+4. Upload Document (Prevvious Purchase Order/Invoice) **File Uplaod**
+5. Remark **Textarea input**
 6. Submit Button
