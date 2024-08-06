@@ -36,21 +36,21 @@ In dashabord remove 4 button form eacth column, then make only single button at 
 
 
 ### 2. Major Product  Category
-Dispay 2 column with PTD and MTD with details button.once clcik go to Category PAGE whcih show all categories with collapse sub-categories. 
+Dispay 2 column with PTD and MTD with details button.once clcik go to [Category PAGE](#) whcih show all categories with collapse sub-categories. 
 #### Purchase MTD
-Disaply top 3 categories with value exmaple $20,000, can click on caterogy go to Sales Of Branch PAGE view sales for all branch with singel category.
+Disaply top 3 categories with value exmaple $20,000, can click on caterogy go to [Sales Of Branch PAGE](#) view sales for all branch with singel category.
   1. Paper products $10,000 + button 
   2. Janitoral $5,000 + button
   3. Skin Care $5,000 + button
 
 #### Purchase YTD
-Disaply top 3 categories with value exmaple $120,000, can click on caterogy go to Sales Of Branch PAGE view sales for all branch with singel category.
+Disaply top 3 categories with value exmaple $120,000, can click on caterogy go to [Sales Of Branch PAGE](#) view sales for all branch with singel category.
   1. Paper products $70,000 + button
   2. Janitoral $25,000 + button
   3. Skin Care $25,000 + button
 
 ### 3. Delivery Performance(DIFOT)
-Have a bprderless tabel to display MTD & YTD value in %. Exaple table as below. Put figure 100% as a button can click then go to My Report PAGES
+Have a bprderless tabel to display MTD & YTD value in %. Exaple table as below. Put figure 100% as a button can click then go to [My Report PAGES](#)
 
 |  | MTD      | YTD |
 |-----------| ----------- | ----------- |
@@ -59,7 +59,7 @@ Have a bprderless tabel to display MTD & YTD value in %. Exaple table as below. 
 
 
 ### 4. Back Order
-Have a bprderless tabel to display MTD & YTD value in %. Exaple table as below. Put figure $500 as a button can click then go to Back Order Details PAGES
+Have a bprderless tabel to display MTD & YTD value in %. Exaple table as below. Put figure $500 as a button can click then go to [Back Order Details PAGES](#)
 
 | | MTD      | YTD |
 |-----------| ----------- | ----------- |
