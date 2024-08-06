@@ -2,7 +2,7 @@
 layout: doc
 title: Dashboard Page
 ---
-# Dashbaord
+# Dashbaord Page
 [xd lik](https://xd.adobe.com/view/25e79356-f9a3-45d3-81b7-155829757ccf-70b4/){:target="_blank"}
 
 ## 1. Dashboard
