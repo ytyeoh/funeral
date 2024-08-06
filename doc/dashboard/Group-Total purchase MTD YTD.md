@@ -1,3 +1,7 @@
+---
+layout: doc
+title: Dashboard - Group(Total purchase MTD YTD)
+---
 # Dashboard - Group(Total purchase MTD YTD)
 [xd link](https://xd.adobe.com/view/25e79356-f9a3-45d3-81b7-155829757ccf-70b4/screen/845eebdc-6d62-4b64-94f2-a8c313bb5279)
 
