@@ -25,10 +25,11 @@ Once click go to [Dashboard - Group(Total purchase MTD YTD) PAGES](Group-Total%2
 23/24 year generat by Year Now acording to current year
 Budget Year To Date data for all products example: $30,000
 Once click go to [Dashboard - Group(Total purchase MTD YTD) PAGES](Group-Total%20purchase%20MTD%20YTD)
-```
+
+{:.fake-h2}
 Suggestion
 In dashabord remove 4 button form eacth column, then make only single button at bottom  to click will go to [Dashboard - Group(Total purchase MTD YTD) PAGES](Group-Total%20purchase%20MTD%20YTD)
-```
+
 
 ### 2. Major Product  Category
 Dispay 2 column with PTD and MTD with details button.once clcik go to Category PAGE whcih show all categories with collapse sub-categories. 
