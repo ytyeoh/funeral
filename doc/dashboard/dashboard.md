@@ -69,7 +69,7 @@ Have a bprderless tabel to display MTD & YTD value in %. Exaple table as below. 
 
 
 
-## 5.Specials For The Month
+## 5. Specials For The Month
 Display monthly specia item (chage by Waqas each month with coding no backend to add in)  in carousel method. 
 Info To Display For Product 
   1. Image
