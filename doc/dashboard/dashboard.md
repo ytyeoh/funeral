@@ -78,4 +78,4 @@ Info To Display For Product
   4. Name
 
 ## 6. Alternative Product Recommendations
-Display potential savings on alternative prodducts. This fcntion will be coming soon.
+Display potential savings on alternative prodducts. This function display as coming soon.
