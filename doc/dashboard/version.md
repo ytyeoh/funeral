@@ -1,3 +1,7 @@
+---
+layout: doc
+title: Version Control
+---
 # Verison Control
 ## Version 1.0.1 - 9/8/2024
 Some update from online meeting
