@@ -10,21 +10,21 @@ title: Dashboard Page
 All dashabord with Details > button
 ### Purchase MTD
 Purchase Month To Date data for all products example : $5.200,471
-Once click go to [Dashboard - Group(Total purchase MTD YTD) PAGES](Group-Total%20purchase%20MTD%20YTD)
+Once click go to [Branch Op 1](Branch Op 1)
 
 ### Budget MTD
 Budget Year To Date data for all products example: $200,471
-Once click go to [Dashboard - Group(Total purchase MTD YTD) PAGES](Group-Total%20purchase%20MTD%20YTD)
+Once click go to [Branch Op 1](Branch Op 1)
 
 ### Purchase YTD 23/24
 23/24 year generat by Year Now acording to current year
 Purchse Year To Date data for all products example: $6,000,000
-Once click go to [Dashboard - Group(Total purchase MTD YTD) PAGES](Group-Total%20purchase%20MTD%20YTD)
+Once click go to [Branch Op 1](Branch Op 1)
 
 ### Budget YTD 23/24
 23/24 year generat by Year Now acording to current year
 Budget Year To Date data for all products example: $30,000
-Once click go to [Dashboard - Group(Total purchase MTD YTD) PAGES](Group-Total%20purchase%20MTD%20YTD)
+Once click go to [Branch Op 1](Branch Op 1)
 
 {:.red-title}
 #### Suggestion
@@ -32,7 +32,7 @@ Once click go to [Dashboard - Group(Total purchase MTD YTD) PAGES](Group-Total%2
 
 {:.red-text}
 
-In dashabord remove 4 button form eacth column, then make only single button at bottom  to click will go to [Dashboard - Group(Total purchase MTD YTD) PAGES](Group-Total%20purchase%20MTD%20YTD)
+In dashabord remove 4 button form eacth column, then make only single button at bottom  to click will go to [Branch Op 1](Branch Op 1)
 
 
 ## 2. Major Product  Category
