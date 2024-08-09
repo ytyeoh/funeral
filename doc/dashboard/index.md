@@ -2,7 +2,7 @@
 layout: doc
 title: Index Page For Documentation
 ---
-### [Version Control](version) 
+### click to view [Version Control](version) 
 1. [Dashboard](dashboard)
 2. [Dashboard - Group(Total purchase MTD YTD) PAGES](Group-Total purchase MTD YTD)
 3. [Billing & PODs](Billing_PODs)
