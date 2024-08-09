@@ -1,9 +1,9 @@
 ---
 layout: doc
-title: Dashboard - Group(Total purchase MTD YTD)
+title: Branch Op 1
 ---
-# Dashboard - Group(Total purchase MTD YTD)
-[xd link](https://xd.adobe.com/view/25e79356-f9a3-45d3-81b7-155829757ccf-70b4/screen/845eebdc-6d62-4b64-94f2-a8c313bb5279){:target="_blank"}
+# Branch Op 1
+[xd link](https://xd.adobe.com/view/25e79356-f9a3-45d3-81b7-155829757ccf-70b4/screen/0834e615-6299-4bc8-9437-bbc3a810df00/){:target="_blank"}
 
 Dispay all branches purchse and budget of MTD & YTD in index page format.
 
