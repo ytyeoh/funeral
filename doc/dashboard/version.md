@@ -5,3 +5,6 @@ Some update from online meeting
 - Add in Branch data use same layout with [Dashboard](dashboard) major difference is all branch data and individual barnch data.
 - Caterogies in [Dashboard](dashboard) auto filter by user purchasing products.
 - Name **Dashboard - Group(Total purchase MTD YT**D been change to **Branch Op 1**
+
+## Version 1.0.0 - 2/8/2024
+First Setup after online meeting
