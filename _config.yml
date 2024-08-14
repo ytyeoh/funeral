@@ -2,5 +2,5 @@ remote_theme: pages-themes/dinky@v0.2.0
 plugins:
 - jekyll-include-cache
 - jekyll-remote-theme # add this line to the plugins list if you already have one
-title: [讣告]
-description: [杨门陈氏玉燕太夫人仙逝]
+title: [訃告]
+description: [楊門陳氏玉燕太夫人仙逝]
