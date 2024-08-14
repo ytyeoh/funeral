@@ -2,7 +2,8 @@
 
 # 楊门陈氏玉燕太夫人仙逝
 我们最敬爱的至亲楊门陈氏玉燕老妇人，慟於2024年8月13日（農曆甲辰年七月初十）星期二，早上7時，壽終內寢，享壽八十有七歲，我們隨侍在側，親視入殮，即日遵禮成服。淚涓於2024年8月17日（農曆甲辰年七月十四）星期六，下午2時，由喪居扶柩發引至峇都干冬火葬場火化。
-**謹以悲痛的心情，將此噩耗敬告關心我們的親友們。**
+
+#### 謹以悲痛的心情，將此噩耗敬告關心我們的親友們。
 ## 夫
 楊亞吉
 ## 孝男
@@ -38,7 +39,11 @@
 ## 外曾孫女
 陳慧珊  慧熒
 
-治喪處：16，LEBUH NIPAH MK13, SUNGAI DUA, 11700 GELUGOR, P.PINANG. 
-電話：
-- [019-4771752](tel:60194771752) [Whatsapp](https://api.whatsapp.com/send?phone=60194771752)
-- [016-4818018](tel:60164818018) [Whatsapp](https://api.whatsapp.com/send?phone=60164818018)
+### 治喪處：
+16，LEBUH NIPAH MK13, SUNGAI DUA, 11700 GELUGOR, P.PINANG. 
+
+### 電話：
+- [019-4771752](tel:60194771752)
+- [Whatsapp](https://api.whatsapp.com/send?phone=60194771752)
+- [016-4818018](tel:60164818018)
+- [Whatsapp](https://api.whatsapp.com/send?phone=60164818018)
