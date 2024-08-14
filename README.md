@@ -41,4 +41,4 @@
 治喪處：16，LEBUH NIPAH MK13, SUNGAI DUA, 11700 GELUGOR, P.PINANG. 
 電話：
 - [019-4771752](tel:60194771752) [Whatsapp](https://api.whatsapp.com/send?phone=60194771752)
-- [016-4818018](tel:60164818018) [Whatsapp](https://api.whatsapp.com/send?phone=60164818018)]
+- [016-4818018](tel:60164818018) [Whatsapp](https://api.whatsapp.com/send?phone=60164818018)
