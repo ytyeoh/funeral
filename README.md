@@ -1,30 +1,36 @@
-# JSHAYES Documentation
-## Meeting
-[2024](./doc/2024/meeting.md)
 
-## [Magento 2](./doc/magento.md)
-Work as system direct deal with clients. 
-this image show how magento 2 big picture on handle event and webhook for making feeature.
-![](https://developer.adobe.com/commerce/extensibility/static/800f2edba94ad4aab9276f670f2001a2/751eb/starter-kit-diagram.webp)
-
-### function
-- order/reorder
-- downlaod/view invoices
-
-#### to be develope
-- check shiping route
-
-   
-## [Celigo](./doc/celigo.md)
-Middel to connect Magento 2 & Netsutie. APi intergration will be provide in betwen them.
-
-
-
-
-## [Netsuite](./doc/netsuite.md)
-ERP for hsjayes, major database was store here.
-
-
-## [Detrack](./doc/detrack.md)
-Handle shipping status with live track location and generate IFXXXXX Item Fufillment id for tracking purpose.
-   
+![imail](https://github.com/user-attachments/assets/7e596978-e9e1-40ad-9e86-f6f716ecc71c)
+## 夫
+楊亞吉
+## 孝男
+承輝  承煌  承裕
+## 孝媳
+胡麗燕  何貴曉
+## 孝女
+素芬 
+## 女婿
+梁木春
+## 嗣女 
+楊黃素喜
+## 嗣女婿
+林錦發
+## 內孫男 
+詠達  詠翔  詠晉
+## 內孫媳
+秦绣荔
+## 內孫女
+巧琳  巧瑩
+## 內孫婿
+陳國樑
+## 外孫男
+梁道政
+## 外孫女
+梁善柔
+## 嗣孫男
+林釧葦
+## 嗣孫女
+林祐戎
+## 內曾孫男
+楊毅
+## 外曾孫女
+陳慧珊  慧熒
